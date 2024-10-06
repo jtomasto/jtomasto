@@ -11,7 +11,7 @@
 
    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-tomasto/)
    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jtomastoh@gmail.com)
-   [![Google Chrome](https://img.shields.io/badge/Mi%20web-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://johan-portfolio.netlify.app/)
+   
 </div>
 
 ##  Sobre mí:
